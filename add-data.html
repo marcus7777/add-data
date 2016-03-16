@@ -1,0 +1,15 @@
+<script>
+Polymer({
+  is: "add-data",
+  properties: {
+    data:Array,
+    add:Array,
+    output: {
+      computed: "getOutput(data,add)",notify: true
+    }
+  },
+  getOutput: function(data, add) {
+    return data.concat(add)
+  }
+})
+</script>
