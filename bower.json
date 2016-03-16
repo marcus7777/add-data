@@ -1,0 +1,13 @@
+{
+  "name": "add-data",
+  "version": "1.0.0",
+  "description": "paper-input",
+  "main": "add-data.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "polymer": "*"
+  }
+}
