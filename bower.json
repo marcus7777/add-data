@@ -1,11 +1,12 @@
 {
   "name": "add-data",
   "version": "1.0.0",
-  "description": "paper-input",
+  "description": "Joins together to bits of data, for prototyping",
   "main": "add-data.html",
   "keywords": [
     "polymer",
-    "web-components"
+    "web-components",
+    "dev"
   ],
   "dependencies": {
     "polymer": "*"
